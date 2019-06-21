@@ -1,0 +1,68 @@
+	body {
+		margin: 0px;
+  		padding: 0px;
+  		height: 99vh;
+  		width: 99.6vw;
+	}
+	
+	.all {
+		display: flex;
+	  	flex-direction: row;
+	  	height: 100%;
+  		width: 100%;
+	  	
+		margin: 0px;
+  		padding: 0px;
+	}
+	
+	.tabs {
+		height: 100.4%;
+		width: 100px;
+		display: block;
+		border: 2px solid black;
+		background: #CD5C5C;
+		
+		margin: 0px;
+  		padding: 0px;
+	}
+	
+	.topDiv {
+		height: 50%;
+		width: 100%;
+		display: block;
+		border: 2px solid black;
+		
+		margin: 0px;
+  		padding: 0px;
+	}
+	
+	.botDiv {
+		height: 50%;
+		width: 100%;
+		display: block;
+		border: 2px solid black;
+		
+		margin: 0px;
+  		padding: 0px;
+	}
+	
+	.css {
+		height: 100%;
+		width: 100%;
+		display: block;		
+		margin: 0px;
+  		padding: 0px;
+	}
+	
+	.button {
+		height: 100px;
+		width: 100%;
+		
+		color: white;
+		background: #CD5C5C;
+		border-radius: 0px;
+		border-bottom: 1px solid black;
+		
+		margin: 0px;
+		padding: 0px;
+	}
